@@ -1,1 +1,2 @@
-Read me to be updated soon
+# 0x00. Fix my code
+## Debugging

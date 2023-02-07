@@ -3,10 +3,12 @@
 #include "lists.h"
 
 /**
- * add_dnodeint_end - Adds a node at the end of a list
- * @head: pointer to 1st element of the list
- * @n: Number to store in the new element
- * Return: pointer to the new element
+ * add_dnodeint_end - Add a node at the end of a list
+ *
+ * @head: The address of the pointer to the first element of the list
+ * @n: The number to store in the new element
+ *
+ * Return: A pointer to the new element
  */
 dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 {
